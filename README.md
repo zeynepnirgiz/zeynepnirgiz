@@ -1,16 +1,13 @@
-## Hi there 👋
+### Merhaba! Ben Zeynep! 👋
+Eskişehir Osmangazi Üniversitesi  **Matematik ve Bilgisayar Bilimleri** öğrencisiyim. Yazılım dünyasındaki adımlarımı atıyor, algoritma mantığını geliştiriyor ve yeni projeler üretiyorum.
 
-<!--
-**zeynepnirgiz/zeynepnirgiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Teknolojiler ve Araçlar
+* **Programlama Dilleri:** Python
+* **Araçlar & Editörler:** VS Code, Google Colab, Git & GitHub
+* **İlgi Alanlarım:** Algoritmalar, problem çözme, yazılım geliştirme 
+### ⭐ Şu Aralar Ne Yapıyorum?
+**Temel Python projeleri ve algoritma pratikleri üzerine çalışıyorum.*
+**GitHub üzerinde projelerimi derleyip versiyon kontrolünü öğreniyorum.*
+  
+### 📬 Bana Ulaşın:
+* **LinkedIn:** www.linkedin.com/in/zeynepnirgiz-7726e
